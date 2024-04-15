@@ -1,6 +1,6 @@
 # ههههه دور بوت بالغة php وصلت 
 # علئ اقل انضم لقناتي بدال ما تخمط بس
-#https://t.me/BBB_QW
+#https://t.me/BBB_QW 
 <?php
 #      : @BW_YT
 #             : @BBB_QW
